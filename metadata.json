@@ -1,0 +1,6 @@
+{
+  "name": "Attack on Titan Portfolio",
+  "description": "An immersive, responsive, and highly interactive fan portfolio and lore database for Attack on Titan (Shingeki no Kyojin) featuring character files, a Titan encyclopedia, a military aptitude quiz, and an interactive ODM gear Titan Slayer mini-game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
